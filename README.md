@@ -14,4 +14,4 @@ V1.0
 * Localization & Region Detection: Automatic detection of Locale.current to initialize the application in either English or Spanish depending on the device's hardware settings.
 * Haptic & Acoustic Feedback: Implementation of UINotificationFeedbackGenerator and AudioServices to provide sensory confirmation of successful data persistence.
 
-For problems or anything, please send me an email to: lucaslantier24@gmail.com 
+For problems or anything, please send me an email to: lucaslantieri24@gmail.com 
